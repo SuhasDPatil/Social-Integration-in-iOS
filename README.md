@@ -1,6 +1,6 @@
-Social-Integration-in-iOS
+Social-Integration-in-iOS 
 =========================
-Its a ready-made social sign in integration in a single application using Facebook, Twitter and LinkedIn.
+Its a ready-made social sign in integration in a single application using Facebook, Twitter and LinkedIn (All-in-one).
 
 I used 
 

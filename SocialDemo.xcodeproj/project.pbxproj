@@ -677,8 +677,6 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/cygnus/Documents/FacebookSDK,
-					/Users/cygnus/Documents/FacebookSDK/FBAudienceNetwork,
 					"$(PROJECT_DIR)/FacebookSDK",
 					"$(PROJECT_DIR)/FacebookSDK/FBAudienceNetwork",
 				);
@@ -700,8 +698,6 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/cygnus/Documents/FacebookSDK,
-					/Users/cygnus/Documents/FacebookSDK/FBAudienceNetwork,
 					"$(PROJECT_DIR)/FacebookSDK",
 					"$(PROJECT_DIR)/FacebookSDK/FBAudienceNetwork",
 				);
